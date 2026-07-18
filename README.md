@@ -1,6 +1,4 @@
-# Hi, I'm Angela Gail Goff 👋
-
-**AI & Full-Stack Developer | Building Intelligent Systems | Qatar-based**
+# Hi, I'm Angela Gail Goff 👋US based**
 
 I specialize in building intelligent, scalable applications combining AI, full-stack web development, and automation.
 
