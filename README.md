@@ -1,4 +1,4 @@
-# Hi, I'm Sherif Akanmu 👋
+# Hi, I'm Angela Gail Goff 👋
 
 **AI & Full-Stack Developer | Building Intelligent Systems | Qatar-based**
 
