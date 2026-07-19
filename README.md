@@ -1,4 +1,4 @@
-# Hi, I'm Angela Gail Goff 👋US based**
+# Hi, I'm Sherif Olaide *
 
 I specialize in building intelligent, scalable applications combining AI, full-stack web development, and automation.
 
