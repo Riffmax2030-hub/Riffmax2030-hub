@@ -11,9 +11,9 @@ I write and grade LLM evaluation tasks (prompt design, rubric-based response gra
 
 | Repository | Description |
 |---|---|
-| [llm-eval-samples](https://github.com/Riffmax2030-hub/llm-eval-samples) | 15 original, hand-scored LLM evaluation examples across code review, instruction following, and factual QA with rubrics and written feedback. |
-| [mt5-tradingview-ai-agent](https://github.com/Riffmax2030-hub/mt5-tradingview-ai-agent) | Python bridge connecting TradingView alert webhooks to MetaTrader 5 with automated order execution and risk controls. |
-| [riffmax-ai](https://github.com/Riffmax2030-hub/riffmax-ai) | AI-powered website generation platform. In active development (FastAPI backend + React frontend). |
+| [LLM-Evaluation-samples](https://github.com/Riffmax2030-hub/LLM-Evaluation-samples) | 15 original, hand-scored LLM evaluation examples across code review, instruction following, and factual QA with rubrics and written feedback. |
+| [Riffmax-TradingBot-AI-RiffEx](https://github.com/Riffmax2030-hub/Riffmax-TradingBot-AI-RiffEx) | Python bridge connecting TradingView alert webhooks to MetaTrader 5 with automated order execution and risk controls. |
+| [Riffmax-AI](https://github.com/Riffmax2030-hub/Riffmax-AI) | AI-powered website generation platform. In active development (FastAPI backend + React frontend). |
 
 ---
 
